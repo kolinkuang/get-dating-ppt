@@ -15,5 +15,5 @@ $ nodeppt build slide.md
 # help
 nodeppt -h
 
-# 获取帮助
+# serve help
 nodeppt serve -h
