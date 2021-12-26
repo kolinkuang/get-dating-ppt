@@ -11,4 +11,4 @@ plugins:
 
 插坐广州校友会·信息组 {.text-intro}
 
-[:fa-github: Github](https://github.com/ksky521/nodeppt){.button.ghost}
+[:fa-github: Github](https://github.com/kolinkuang/get-dating-ppt){.button.ghost}
