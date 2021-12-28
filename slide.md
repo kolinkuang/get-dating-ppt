@@ -5,7 +5,7 @@ plugins:
 - mermaid
 - katex
 
-<slide class="bg-facebook aligncenter" image="img/005.png .light">
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/C1HhAQrbykQ/ .light">
 
 # 没有脱不了的单 {.text-landing.text-shadow}
 
@@ -16,74 +16,84 @@ plugins:
 
 [:fa-github: Github](https://github.com/kolinkuang/get-dating-ppt){.button.ghost}
 
-<slide class="bg-facebook aligncenter">
-一、目标成果
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+一、目标成果 <p>
 告别单身，官宣脱单
 
-<slide class="bg-facebook aligncenter">
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
 二、背景
 
-<slide class="bg-facebook aligncenter">
-三、困惑
-人方面：找怎么样的人？
-货方面：单身狗的自我修养？
-场方面：How？
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+三、困惑 <p>
+<li>人方面：找怎么样的人？ 
+<li>货方面：单身狗的自我修养？ 
+<li>场方面：How？
 
-<slide class="bg-facebook aligncenter">
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
 四、拆解分析
 
-<slide class="bg-facebook aligncenter">
-（一）感性分析
-1. 状态
-2. 情绪
-3. 心态
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+（一）感性分析 <p>
+<li>1. 状态 <p>
+<li>2. 情绪 <p>
+<li>3. 心态 <p>
 
-<slide class="bg-facebook aligncenter">
-（二）理性分析
-1. 量化（看清楚）
-2. 认知（想明白）
-3. 方法（做踏实）
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+（二）理性分析 <p>
+<li>1. 量化（看清楚）<p>
+<li>2. 认知（想明白）<p>
+<li>3. 方法（做踏实）<p>
 
-<slide class="bg-facebook aligncenter">
-·对内：目标、计划
-·对外：
-·上级：目标+计划+汇报进展+反馈困难+争取资源
-·下属：目标+计划+追进展+那成果+给评价
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+对内：
+<li>目标
+<li>计划
 
-<slide class="bg-facebook aligncenter">
-五、实施方案
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+对外：
+<li>上级：目标+计划+汇报进展+反馈困难+争取资源
+<li>下属：目标+计划+追进展+那成果+给评价
 
-<slide class="bg-facebook aligncenter">
-（一）人方面：找怎么样的人？
-1. 量化（看清楚）【量化指标】
-2. 认知（想明白）
-3. 方法（做踏实）
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+五、实施方案 <p>
 
-<slide class="bg-facebook aligncenter">
-（二）货方面：单身狗的自我修养——爆款是怎么炼成的
-1. 量化（看清楚）【量化指标】
-2. 认知（想明白）
-3. 方法（做踏实）
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+（一）人方面：找怎么样的人？ 
 
-<slide class="bg-facebook aligncenter">
-（三）场方面：找怎么样的人？
-1. 量化（看清楚）【量化指标】
-2. 认知（想明白）
-3. 方法（做踏实）
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+<li>1. 量化（看清楚）【量化指标】
+<li>2. 认知（想明白）
+<li>3. 方法（做踏实）
 
-<slide class="bg-facebook aligncenter">
-分阶段管理：
-1建立关系
-2相处阶段
-3暧昧阶段
-4关系确认阶段
-5告白成功
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+（二）货方面：单身狗的自我修养——爆款是怎么炼成的 
 
-<slide class="bg-facebook aligncenter">
-六、结语
-追求为辅、吸引为主；
-张弛有度、心中有数；
-保持平常心，心急吃不了热豆腐；
-从朋友开始、慢慢升级；
-大胆细心厚脸皮；
-多行动，少吹牛逼；
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+<li>1. 量化（看清楚）【量化指标】
+<li>2. 认知（想明白）
+<li>3. 方法（做踏实）
+
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+（三）场方面：找怎么样的人？ 
+
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+<li>1. 量化（看清楚）【量化指标】
+<li>2. 认知（想明白）
+<li>3. 方法（做踏实）
+
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+分阶段管理：<p>
+<li>1建立关系<p>
+<li>2相处阶段<p>
+<li>3暧昧阶段<p>
+<li>4关系确认阶段<p>
+<li>5告白成功<p>
+
+<slide class="bg-facebook aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .light">
+六、结语<p>
+<li>追求为辅、吸引为主<p>
+<li>张弛有度、心中有数<p>
+<li>保持平常心，心急吃不了热豆腐<p>
+<li>从朋友开始、慢慢升级<p>
+<li>大胆细心厚脸皮<p>
+<li>多行动，少吹牛逼<p>
