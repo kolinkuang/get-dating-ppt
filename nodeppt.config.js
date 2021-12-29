@@ -14,6 +14,7 @@ module.exports = {
 
     // filename for index.html (relative to outputDir)
     indexPath: 'index.html',
+
     // 插件，包括 markdown 和 posthtml
     plugins: [],
     // chainWebpack: [],
