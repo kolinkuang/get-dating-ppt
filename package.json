@@ -1,0 +1,13 @@
+{
+  "name": "get-dating-ppt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodeppt serve slide.md",
+    "build": "nodeppt build slide.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
